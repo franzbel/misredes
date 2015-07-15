@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="UserTest" skipped="0" failures="0" errors="0" tests="10" assertions="14" time="0.1956460630062793">
-  <testcase name="test_should_be_valid" classname="UserTest" assertions="1" time="0.15379857199877733">
+<testsuite name="UserTest" skipped="0" failures="0" errors="0" tests="10" assertions="14" time="0.06683953199535608">
+  <testcase name="test_email_should_not_be_to_long" classname="UserTest" assertions="1" time="0.02581750800163718">
   </testcase>
-  <testcase name="test_name_should_not_be_to_long" classname="UserTest" assertions="1" time="0.007452780999301467">
+  <testcase name="test_password_should_have_a_minimum_length" classname="UserTest" assertions="1" time="0.004566635994706303">
   </testcase>
-  <testcase name="test_email_validation_should_reject_invalid_addresses" classname="UserTest" assertions="3" time="0.00530736500149942">
+  <testcase name="test_email_validation_should_accept_valid_addresses" classname="UserTest" assertions="3" time="0.004661825994844548">
   </testcase>
-  <testcase name="test_email_should_be_present" classname="UserTest" assertions="1" time="0.003348261001519859">
+  <testcase name="test_name_should_not_be_to_long" classname="UserTest" assertions="1" time="0.003503633997752331">
   </testcase>
-  <testcase name="test_email_should_not_be_to_long" classname="UserTest" assertions="1" time="0.0029842059993825387">
+  <testcase name="test_password_should_be_present_(nonblank)" classname="UserTest" assertions="1" time="0.004328347000409849">
   </testcase>
-  <testcase name="test_email_should_be_unique" classname="UserTest" assertions="1" time="0.006879647000459954">
+  <testcase name="test_email_should_be_present" classname="UserTest" assertions="1" time="0.003772784002649132">
   </testcase>
-  <testcase name="test_password_should_be_present_(nonblank)" classname="UserTest" assertions="1" time="0.00474900400149636">
+  <testcase name="test_should_be_valid" classname="UserTest" assertions="1" time="0.0025096169993048534">
   </testcase>
-  <testcase name="test_password_should_have_a_minimum_length" classname="UserTest" assertions="1" time="0.004072652001923416">
+  <testcase name="test_email_validation_should_reject_invalid_addresses" classname="UserTest" assertions="3" time="0.0072122190031223">
   </testcase>
-  <testcase name="test_email_validation_should_accept_valid_addresses" classname="UserTest" assertions="3" time="0.003964876003010431">
+  <testcase name="test_name_should_be_present" classname="UserTest" assertions="1" time="0.0038194270018721">
   </testcase>
-  <testcase name="test_name_should_be_present" classname="UserTest" assertions="1" time="0.0030886989989085123">
+  <testcase name="test_email_should_be_unique" classname="UserTest" assertions="1" time="0.006647533999057487">
   </testcase>
 </testsuite>
