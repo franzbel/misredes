@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="UsersSignupTest" skipped="0" failures="0" errors="0" tests="2" assertions="4" time="0.05596808200789383">
-  <testcase name="test_invalid_sign_up_information" classname="UsersSignupTest" assertions="2" time="0.020996584004024044">
+<testsuite name="UsersSignupTest" skipped="0" failures="0" errors="0" tests="2" assertions="4" time="0.07308236200151441">
+  <testcase name="test_invalid_sign_up_information" classname="UsersSignupTest" assertions="2" time="0.05309132000002137">
   </testcase>
-  <testcase name="test_valid_sign_up_information" classname="UsersSignupTest" assertions="2" time="0.03497149800386978">
+  <testcase name="test_valid_sign_up_information" classname="UsersSignupTest" assertions="2" time="0.019991042001493042">
   </testcase>
 </testsuite>
